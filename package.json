@@ -1,7 +1,7 @@
 {
   "name": "codeX_Programming101",
   "version": "0.0.0",
-  "description": "",
+  "description": "##Required tutorials to be completed:",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,14 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^3.8.8",
-    "gulp-qunit": "^0.3.3"
-  }
+    "gulp-qunit": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avermeulen/codeX_ProgrammingExercises"
+  },
+  "bugs": {
+    "url": "https://github.com/avermeulen/codeX_ProgrammingExercises/issues"
+  },
+  "homepage": "https://github.com/avermeulen/codeX_ProgrammingExercises"
 }
